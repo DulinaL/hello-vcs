@@ -15,4 +15,5 @@ This is my first Git repository! I learned how to:
 - Make commits locally
 - Use .gitignore to protect sensitive files
 - Push changes back to GitHub
-
+[![ci](https://github.com/DulinaL/hello-vcs/actions/workflows/build.yml/badge.svg)](https://github.com/DulinaL/hello-vcs/actions/workflows/build.yml)
+# Last updated: Fri Sep 12 16:59:42 PDT 2025
